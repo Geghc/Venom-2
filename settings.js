@@ -4,29 +4,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
+global.ownernomer = "243896216263"
+global.ownername = "𝙎𝙃𝙀𝙇𝘽𝙔"
+global.ytname = "thomas"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '243896216263,243896216263,243896216263'  //creator number
+global.ownername = '𝙎𝙃𝙀𝙇𝘽𝙔' //owner name
+global.botname = '🕷 BLAINDER 🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'shelby'
+global.author = 'David_Cyril\n\nContact: +243896216263'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "SHELby"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://telegra.ph/file/34b6354b9e53237f29c05.jpg'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [∆]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
